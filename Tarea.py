@@ -74,6 +74,6 @@ new_list.sort()
 
 a_tuple = ("mi", "nuevo", "tuple")
 
-a_tuple = a_tuple + ("es este")
+a_tuple = a_tuple + ("es este",)
 
 
